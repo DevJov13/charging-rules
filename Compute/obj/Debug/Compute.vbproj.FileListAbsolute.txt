@@ -1,0 +1,10 @@
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\bin\Debug\Compute.exe
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\bin\Debug\Compute.pdb
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\bin\Debug\Compute.xml
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\Compute.Form1.resources
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\Compute.Resources.resources
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\Compute.vbproj.GenerateResource.Cache
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\Compute.exe
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\Compute.xml
+C:\Users\Joven\Documents\Visual Studio 2008\Projects\Compute\Compute\obj\Debug\Compute.pdb
